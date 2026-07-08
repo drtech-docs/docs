@@ -1,2 +1,2 @@
 # docs
-DRTECH Documents
+Documents
